@@ -1,0 +1,11 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+.env
+
+# Models
+models/
+
+# lmstudio
+*AppImage
